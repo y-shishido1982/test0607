@@ -19,7 +19,14 @@
 <script>
 
 import { db } from '../main' // ここを追加
-
+// ここを追加
+// ここを追加
+// ここを追加
+// ここを追加
+// ここを追加
+// ここを追加
+// ここを追加
+// ここを追加
 export default {
   props: ['currentUser'],
   
